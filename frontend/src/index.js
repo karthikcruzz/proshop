@@ -4,6 +4,7 @@ import './bootstrap.min.css'
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import '../node_modules/@fortawesome/fontawesome-svg-core/styles.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
